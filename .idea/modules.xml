@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicio-GRASP_Restaurante.iml" filepath="$PROJECT_DIR$/.idea/Exercicio-GRASP_Restaurante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio-GRASP_Restaurante.iml" filepath="$PROJECT_DIR$/Exercicio-GRASP_Restaurante.iml" />
     </modules>
   </component>
 </project>
